@@ -1,2 +1,2 @@
-# Awsome-myEverything
-Awsome myEverything* 手写一切！
+# Awesome-myEverything
+Awesome myEverything* 手写一切！
